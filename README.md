@@ -1,9 +1,9 @@
 # DUDCLSampleSOAPPhpJAVA
-To run JAva Server
+To run Java Server
 
-```bash
+'''bash
 mvn clean install tomcat:run-war 
-```
+'''
 
 to run php code
 
